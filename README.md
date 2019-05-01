@@ -17,4 +17,5 @@
 - Python Bibliotheken installieren
   - pip3 install numpy
   - pip3 install matplotlib
-   
+## Infos numpy
+- https://www.python-kurs.eu/numpy.php 
