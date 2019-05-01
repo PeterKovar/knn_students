@@ -1,0 +1,7 @@
+PRAGMA encoding = "UTF8";
+
+CREATE TABLE temp (
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+c_value REAL NOT NULL);
+
+
